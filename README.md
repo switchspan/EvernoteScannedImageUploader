@@ -1,6 +1,6 @@
-# EvernoteScannedImageUploader Project
+# EvernoteScannedImageUploader
 
-Notes on this go here.
+The EvernoteScannedImageUploader is my attempt at creating a simple desktop tool to bulk upload images I am scanning with a handheld scanner up to my Evernote account.
 
 ## Prerequisites
 
